@@ -9,6 +9,11 @@ Dziennik żywieniowy — delikatny przyrost masy mięśniowej.
 - [2026-09-02](dziennik/2026-09-02.md)
 - [2026-09-03](dziennik/2026-09-03.md)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 - [2026-09-04](dziennik/2026-09-04.md)
 >>>>>>> d4a268c (Dodaj dziennik 2026-09-04 (szacunki bez wag))
+=======
+- [2026-09-04](dziennik/2026-09-04.md)
+- [2026-09-05](dziennik/2026-09-05.md)
+>>>>>>> f0292fa (Dodaj dziennik 2026-09-05 — wypiek owsiany 150 g)

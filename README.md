@@ -10,3 +10,4 @@ Dziennik żywieniowy — delikatny przyrost masy mięśniowej.
 - [2026-09-03](dziennik/2026-09-03.md)
 - [2026-09-04](dziennik/2026-09-04.md)
 - [2026-09-05](dziennik/2026-09-05.md)
+- [2026-09-06](dziennik/2026-09-06.md)
